@@ -1,5 +1,6 @@
 # Adding csv files
 201908-citibike-tripdata.csv
+201908-citibike-tripdata-datetime.csv
 
 # Adding config file
 config.py
